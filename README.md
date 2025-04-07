@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://otvet.imgsmail.ru/download/309779519_6d6f3f45689ce066585f4be079138925_800.gif" width="150" >
-  Привет! ✨ Я Alex - Будущий Frontend-волшебник ✨
+  Привет! ✨ Я Alex - Frontend-волшебник ✨
   <img  src="https://otvet.imgsmail.ru/download/309779519_6d6f3f45689ce066585f4be079138925_800.gif" width="150">
 </p>
 
